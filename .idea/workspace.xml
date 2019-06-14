@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework 7/Homework_07_Vaibhav-4.py">
+        <entry file="file://$PROJECT_DIR$/Homework 8/Homework_08_Vaibhav-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="89" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+            <state relative-caret-position="136">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/Homework 4/Homework04_Vaibhav.py" />
         <option value="$PROJECT_DIR$/Homework 6/Homework_06_Vaibhav-1.py" />
         <option value="$PROJECT_DIR$/Homework 7/Homework_07_Vaibhav-4.py" />
+        <option value="$PROJECT_DIR$/Homework 8/Homework_08_Vaibhav-3.py" />
       </list>
     </option>
   </component>
@@ -56,7 +57,7 @@
             <path>
               <item name="Special-Topics-in-Software-Engineering-Course-work" type="b2602c69:ProjectViewProjectNode" />
               <item name="Special-Topics-in-Software-Engineering-Course-work" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework 7" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,6 +160,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="89" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 8/Homework_08_Vaibhav-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
