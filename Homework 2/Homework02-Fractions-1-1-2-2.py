@@ -4,7 +4,7 @@
 @author: Vaibhav Vishnu Shanbhag
 @date: 02/06/2019
 @time: 6:10:37 AM
-This code demonstrates the python code for rock, paper and scissors game
+This code demonstrates the python code for fraction function for fraction calculation
 """
 import math
 class Fraction:
